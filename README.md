@@ -1,6 +1,8 @@
 # X402 Cross-Chain Payment API Backend
 
 > NestJS backend API for X402 cross-chain payment protocol (Solana → Base)
+>
+> ***for client-side developers, try [X402 Cross-Chain Payment SDK](https://github.com/agent-tech/solbase-sdk) to integrate this service to your product.***
 
 ## 🎯 Project Overview
 
@@ -453,4 +455,4 @@ Contributions are welcome! Please read the contributing guidelines before submit
 
 ---
 
-**Built for the X402 Cross-Chain Payment SDK**
+**Built for the [X402 Cross-Chain Payment SDK](https://github.com/agent-tech/solbase-sdk)**
